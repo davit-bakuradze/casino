@@ -16,10 +16,10 @@ function About() {
          </h2>
          <p className='text-sm leading-5 hidden lg:block relative'>
             CASINO is your premier online casino platform, offering a world-class gaming experience with hundreds of top-tier casino games, exclusive
-            bonuses, and lightning-fast payouts. Whether you're a fan of classic slots, live dealer games, table games, or jackpot progressives,
+            bonuses, and lightning-fast payouts. Whether you&#39;re a fan of classic slots, live dealer games, table games, or jackpot progressives,
             CASINO delivers everything you need for high-stakes excitement and non-stop fun — all from the comfort of your home or mobile device.{' '}
             <br />
-            Join thousands of players worldwide who trust CASINO for its secure, fair, and licensed gameplay. We partner with the industry's most
+            Join thousands of players worldwide who trust CASINO for its secure, fair, and licensed gameplay. We partner with the industry&#39;s most
             reputable software providers to bring you an unbeatable selection of games with stunning graphics, realistic sound effects, and smooth
             gameplay. From roulette and blackjack to immersive live casino tables and high-RTP video slots, CASINO is designed to satisfy both new
             players and seasoned pros. <br />
@@ -29,9 +29,9 @@ function About() {
             whenever you need assistance.
          </p>
          <p className='text-sm leading-5 block lg:hidden relative'>
-            Welcome to CASINO, your new destination for the ultimate online social casino experience. Whether you're here to explore exclusive CASINO
-            Originals or enjoy your favorite games from the world’s top iGaming providers, CASINO offers a polished, fair, and exciting platform that
-            keeps players coming back.
+            Welcome to CASINO, your new destination for the ultimate online social casino experience. Whether you&#39;re here to explore exclusive
+            CASINO Originals or enjoy your favorite games from the world&#39;s top iGaming providers, CASINO offers a polished, fair, and exciting
+            platform that keeps players coming back.
          </p>
          <button
             className='

@@ -17,7 +17,7 @@ export const EMPTY_API_RESPONSE: ApiResponse = {
 
 export function buildQueryString(filters: GameListFilters): string {
    return Object.entries(filters)
-      .filter(([_, value]) => {
+      .filter(([, value]) => {
          if (Array.isArray(value)) return value.length > 0
          if (typeof value === 'string') return value.length > 0
          return value !== undefined && value !== null
